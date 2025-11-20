@@ -33,7 +33,4 @@ A GraphQL API for managing Products, Orders, Customers, Employees, Offices, and 
 - JavaScript (ES Modules)
 - Optional: VSCode for development
 
----
-
-## ⚡ Project Structure
 
